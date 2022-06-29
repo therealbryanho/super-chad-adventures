@@ -23,6 +23,7 @@ Mint a Hackathon Game Pass NFT here
 
 - Have around 0.02 ROSE for gas
 
+Or DM https://twitter.com/SuperChadGame  
 
 Game URL - https://sabrinamok.github.io/super-chad-adventures-hackathon-build/
 
