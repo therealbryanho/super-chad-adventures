@@ -8,11 +8,6 @@ Pitch Deck - https://docs.google.com/presentation/d/1zjBPvcAC0MURD4fx8ZY39u1s_Eh
 
 Hackathon Video Pitch - 
 
-# Team mates
-
-- Bryan
-
-- Sabrina
 
 # Game Access
 
@@ -25,10 +20,18 @@ Mint a Hackathon Game Pass NFT here
 
 Or DM https://twitter.com/SuperChadGame  
 
-Game URL - https://sabrinamok.github.io/super-chad-adventures-hackathon-build/
+
+Super Chad Adventures Game URL - https://sabrinamok.github.io/super-chad-adventures-hackathon-build/
 
 # Code
 
 Contracts - https://github.com/therealbryanho/super-chad-adventures-contracts
 
 Build - https://github.com/sabrinamok/super-chad-adventures-hackathon-build
+
+
+# Team mates
+
+- Bryan
+
+- Sabrina
