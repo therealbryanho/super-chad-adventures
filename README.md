@@ -16,7 +16,13 @@ Hackathon Video Pitch -
 
 # Game Access
 
-Mint a Hackathon Game Pass NFT here - 
+Mint a Hackathon Game Pass NFT here
+- https://explorer.emerald.oasis.dev/address/0xe730f833F6fA2B6DA2F1d8d787167e3517835927/write-contract
+
+- Use the mint function, mint amount 1, value can be empty
+
+- Have around 0.02 ROSE for gas
+
 
 Game URL - https://sabrinamok.github.io/super-chad-adventures-hackathon-build/
 
