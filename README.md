@@ -16,7 +16,7 @@ Hackathon Video Pitch -
 
 # Game Access
 
-Mint an NFT here - 
+Mint a Hackathon Game Pass NFT here - 
 
 Game URL - https://sabrinamok.github.io/super-chad-adventures-hackathon-build/
 
