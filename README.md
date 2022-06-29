@@ -18,10 +18,10 @@ Hackathon Video Pitch -
 
 Mint an NFT here - 
 
-Game URL - 
+Game URL - https://sabrinamok.github.io/super-chad-adventures-hackathon-build/
 
 # Code
 
 Contracts - https://github.com/therealbryanho/super-chad-adventures-contracts
 
-Build - 
+Build - https://github.com/sabrinamok/super-chad-adventures-hackathon-build
