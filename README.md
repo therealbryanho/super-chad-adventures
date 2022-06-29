@@ -6,7 +6,7 @@ Super Chad Adventures - Bring Super Chad on this endless survival play to earn a
 
 Pitch Deck - https://docs.google.com/presentation/d/1zjBPvcAC0MURD4fx8ZY39u1s_EhHIVnPxD4h1CVJJu4/view
 
-Hackathon Video Pitch - 
+Hackathon Video Pitch - https://youtu.be/6Err4g5F4j8
 
 
 # Game Access
